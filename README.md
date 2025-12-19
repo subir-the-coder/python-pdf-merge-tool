@@ -37,7 +37,7 @@ It supports sorting, animation, and a custom banner design.
 ---
 
 ## 📁 Project Structure
-
+```
 pdf-merge-tool/
 │
 ├── merge.py
@@ -45,19 +45,17 @@ pdf-merge-tool/
 ├── requirements.txt
 ├── input_pdfs/
 ├── output/
-
+```
 
 ---
 
 ## 📦 Installation
 
 ### Clone Repository
-
+```
 git clone https://github.com/subir-the-coder/pdf-merge-tool.git
 cd pdf-merge-tool
-
-shell
-Copy code
+```
 
 ### Create Virtual Environment
 
