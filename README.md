@@ -58,37 +58,37 @@ cd pdf-merge-tool
 ```
 
 ### Create Virtual Environment
-
+```
 python3 -m venv venv
 source venv/bin/activate
-
+```
 ### Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ## ▶️ Usage
 
 Place PDFs into input_pdfs folder and run:
-
+```
 python3 merge.py
-
+```
 Program will ask:
-
+```
 Sorting order? asc / desc
 Output filename?
 
 Output example:
 merged_output.pdf
-
+```
 ---
 
 ## Requirements
-
+```
 PyPDF2==3.0.1
 colorama==0.4.6
-
+```
 ---
 
 ## 🧑‍💻 Author
